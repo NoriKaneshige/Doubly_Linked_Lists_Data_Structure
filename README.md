@@ -149,7 +149,7 @@ class DoublyLinkedList {
 ```
 
 ![doubly_linked_lists_0](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_0.png)
-![doubly_linked_lists_BigO](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_BigO.png)
+![doubly_linked_lists_BigO](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists.BigO.png)
 ![doubly_linked_lists_push](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_push.png)
 ![doubly_linked_lists_pop](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_pop.png)
 ![doubly_linked_lists_shift](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_shift.png)
