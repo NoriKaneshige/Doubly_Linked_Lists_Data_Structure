@@ -4,6 +4,7 @@
 > ## node creation for doubly_linked_lists: :wink:
 // the difference is this.prev
 
+``` js
 class Node{
     constructor(val){
         this.val = val;
@@ -11,10 +12,12 @@ class Node{
         this.prev = null;
     }
 }
+```
 
 > ## class method creation for doubly_linked_lists: :laughing:
 > push(), pop(), shift(), unshift(), get(), set(), insert(), remove()
 
+``` js
 class DoublyLinkedList {
     constructor(){
         this.head = null;
@@ -142,3 +145,16 @@ class DoublyLinkedList {
     }
 
 }
+
+```
+
+![doubly_linked_lists_0](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_0.png)
+![doubly_linked_lists_BigO](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_BigO.png)
+![doubly_linked_lists_push](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_push.png)
+![doubly_linked_lists_pop](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_pop.png)
+![doubly_linked_lists_shift](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_shift.png)
+![doubly_linked_lists_unshift](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_unshift.png)
+![doubly_linked_lists_get](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_get.png)
+![doubly_linked_lists_set](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_set.png)
+![doubly_linked_lists_insert](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_insert.png)
+![doubly_linked_lists_remove](https://github.com/NoriKaneshige/Doubly_Linked_Lists_Data_Structure/blob/master/doubly_linked_lists_remove.png)
